@@ -18,15 +18,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=radical)
 
-## 🚀 Projects
-
-Here are a few projects I've been working on:
-
-- **[Project Name](https://github.com/AbolfazlAdhami/ProjectName)**: A brief description of the project and its purpose.
-- **[Another Project](https://github.com/AbolfazlAdhami/AnotherProject)**: A brief description of the project and its purpose.
-
-Feel free to check out my repositories for more!
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abolfazladhami/)
@@ -34,7 +25,7 @@ Feel free to check out my repositories for more!
 
 ## 📧 Contact
 
-If you'd like to get in touch, feel free to reach out via [email](mailto:your.email@example.com).
+If you'd like to get in touch, feel free to reach out via [email](mailto:aadhami880@gmail.com).
 
 ---
 
