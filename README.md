@@ -4,7 +4,7 @@
 🔭 I’m currently working on Reactjs,Nextjs and React Native<br>
 👯 I’m looking to collaborate on CrossPlatform Applications and Cryptocurrency<br>
 🌱 I’m currently learning Python Django<br>
-👨‍💻 I Like Study about NP problem and solving Alghoritms problem
+👨‍💻 I Enjoy Study about NP problems and solving Alghoritms problems<br>
 💬 Ask me about React/ReactNative<br>
 
 
