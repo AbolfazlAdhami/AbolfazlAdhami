@@ -3,14 +3,9 @@
 # 💫 About Me: I Learning Javascript and Python
 🔭 I’m currently working on Reactjs,Nextjs and React Native<br>
 👯 I’m looking to collaborate on CrossPlatform Applications and Cryptocurrency<br>
-🌱 I’m currently learning Python and Django<br>
-💬 Ask me about React/ReactNative
-
-
-
-
-
-![](https://www.codewars.com/users/AbolfazlAdhami/badges/large)
+🌱 I’m currently learning Python Django<br>
+👨‍💻 I Like Study about NP problem and solving Alghoritms problem
+💬 Ask me about React/ReactNative<br>
 
 
 # 💻 Tech Stack:
@@ -25,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbolfazlAdhami&icon=5&color=12)](https://visitcount.itsvg.in)
-
+<br>
+![](https://www.codewars.com/users/AbolfazlAdhami/badges/large)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
