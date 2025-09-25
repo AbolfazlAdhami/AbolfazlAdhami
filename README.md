@@ -79,12 +79,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlAdhami&theme=tokyonight&utcOffset=3.5" />
 </p>
 
----
+ 
 
 <br/>
 <br/>
  
-### 🐍 My Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbolfazlAdhami/AbolfazlAdhami/output/github-contribution-grid-snake-dark.svg">
@@ -101,7 +101,7 @@
 
 ---
 
-### 🌐 ارتباط با من
+### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
@@ -116,4 +116,5 @@
 
 ---
 
-⭐️ شب‌ها با قهوه و کدنویسی زندگی می‌کنم — اگر خوشت اومد، پروژه‌هام رو **Star** کن!
+⭐️ Life is all about coding at night with coffee — if you like my projects, give them a **Star**!  
+
