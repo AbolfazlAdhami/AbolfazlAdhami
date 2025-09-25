@@ -1,24 +1,41 @@
-<!-- Dark styled README -->
-<h1 align="center">🌙 سلام! من ابوالفضل ادهمی هستم</h1>
-<h3 align="center">Back-End & DevOps Enthusiast | Linux Lover ☕</h3>
-
----
+<!-- Profile README -->
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Coding at night with coffee" width="600" />
+  <img src="./banner.png" alt="Abolfazl Adhami Banner" style="border-radius:20px;" />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h1 align="center">🌙 Hi! My name is Abolfazl Adhami</h1>
+<h3 align="center">Geek Boy | Full Stack Developer | Linux & DevOps Enthusiast ☕</h3>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="border-radius:20px;" alt="Coding at night with coffee" width="600" />
 </p>
 
 ---
+<br/>
 
-### 🖤 درباره من
-- 🖥️ تمرکز روی **Back-End Development**  
-- 🐧 علاقه‌مند به **Linux و DevOps**  
-- ⚡ تجربه در **JavaScript, TypeScript, Python**  
-- 🌌 کدنویسی در شب + قهوه = بهترین حس دنیا  
+
+### 🖤 About Me
+- 🖥️ Focused on **Back-End Development**  
+- 🐧 Passionate about **Linux & DevOps**  
+- ⚡ Experienced in **JavaScript, TypeScript, Python**  
+- 🌌 Coding at night + coffee + music = the best feeling ever  
+- 🎵 Opeth and Tool are Best Progressive RockBands
+
+<br/>
 
 ---
+<br/>
 
-### ⚒️ تکنولوژی‌ها و ابزارها
+### ⚒️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -29,23 +46,58 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
+<br/>
+
 ---
 
-### 🚀 پروژه‌های منتخب
-| 🔥 پروژه | توضیح |
+### 🚀 Featured Projects
+| 🔥 Project | Description |
 |----------|--------|
-| [**Job Finder**](https://github.com/AbolfazlAdhami/job-finder) | اپلیکیشن جستجوی کار با **React Native + TS** |
-| [**Algorithms & Data Structures**](https://github.com/AbolfazlAdhami/Algorithms-Data-Structures) | تمرین الگوریتم‌ها و ساختار داده در **Python** |
-| [**BlockChain Python**](https://github.com/AbolfazlAdhami/BlockChain-Python) | پیاده‌سازی پایه‌ای بلاک‌چین با **Python** |
-| [**SimpleAIApp**](https://github.com/AbolfazlAdhami/SimpleAIApp) | اپلیکیشن ساده با **FastAPI + React** |
+| [**Job Finder**](https://github.com/AbolfazlAdhami/job-finder) | Job search app using **React Native + TS** |
+| [**Algorithms & Data Structures**](https://github.com/AbolfazlAdhami/Algorithms-Data-Structures) | Algorithm and data structure exercises in **Python** |
+| [**BlockChain Python**](https://github.com/AbolfazlAdhami/BlockChain-Python) | Basic blockchain implementation in **Python** |
+| [**SimpleAIApp**](https://github.com/AbolfazlAdhami/SimpleAIApp) | Simple app using **FastAPI + React** |
 
 ---
+ 
 
-### 📊 وضعیت من در گیت‌هاب
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+---
+
+### 📈 Overall Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlAdhami&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlAdhami&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlAdhami&theme=tokyonight&utcOffset=3.5" />
+</p>
+
+---
+
+<br/>
+<br/>
+ 
+### 🐍 My Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbolfazlAdhami/AbolfazlAdhami/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbolfazlAdhami/AbolfazlAdhami/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AbolfazlAdhami/AbolfazlAdhami/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+
+ 
+<br/>
+<br/>
 
 ---
 
