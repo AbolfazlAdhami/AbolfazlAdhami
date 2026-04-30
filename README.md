@@ -49,16 +49,6 @@
 <br/>
 
 ---
-
-### 🚀 Featured Projects
-| 🔥 Project | Description |
-|----------|--------|
-| [**Job Finder**](https://github.com/AbolfazlAdhami/job-finder) | Job search app using **React Native + TS** |
-| [**Algorithms & Data Structures**](https://github.com/AbolfazlAdhami/Algorithms-Data-Structures) | Algorithm and data structure exercises in **Python** |
-| [**BlockChain Python**](https://github.com/AbolfazlAdhami/BlockChain-Python) | Basic blockchain implementation in **Python** |
-| [**SimpleAIApp**](https://github.com/AbolfazlAdhami/SimpleAIApp) | Simple app using **FastAPI + React** |
-
----
  
 
 ### 📊 GitHub Stats
