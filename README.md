@@ -28,7 +28,7 @@
 - 🐧 Passionate about **Linux & DevOps**  
 - ⚡ Experienced in **JavaScript, TypeScript, Python**  
 - 🌌 Coding at night + coffee + music = the best feeling ever  
-- 🎵 Opeth and Tool are Best Progressive RockBands
+
 
 <br/>
 
@@ -49,8 +49,8 @@
 <br/>
 
 ---
- 
 
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight" height="170" />
@@ -58,6 +58,7 @@
 </p>
 
 ---
+-->
 
 ### 📈 Overall Activity
 <p align="center">
