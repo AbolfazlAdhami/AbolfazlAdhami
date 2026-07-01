@@ -50,28 +50,36 @@
 
 ---
 
-<!--
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight)
+
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=AbolfazlAdhami&theme=tokyonight&hide_border=true" />
 </p>
 
----
--->
-
-### 📈 Overall Activity
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlAdhami&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlAdhami&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbolfazlAdhami&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbolfazlAdhami&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlAdhami&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlAdhami&theme=tokyonight&utcOffset=3.5" />
 </p>
-
- 
-
 <br/>
 <br/>
  
