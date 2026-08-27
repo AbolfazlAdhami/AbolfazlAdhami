@@ -1,62 +1,138 @@
-<!-- Profile README -->
-
+<div align="center"> 
 <p align="center">
   <img src="./banner.png" alt="Abolfazl Adhami Banner" style="border-radius:20px;" />
 </p>
 
 <br/>
-<br/>
-<br/>
-<br/>
 
-<h1 align="center">🌙 Hi! My name is Abolfazl Adhami</h1>
-<h3 align="center">Geek Boy | Full Stack Developer | Linux & DevOps Enthusiast ☕</h3>
+# 👋 Hi, I'm Abolfazl Adhami
 
-<br>
-<br>
+### Full-Stack Developer · Backend Engineer · DevOps Enthusiast
+
+<p>
+  <a href="https://github.com/AbolfazlAdhami">
+    <img src="https://img.shields.io/badge/GitHub-AbolfazlAdhami-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/AbolfazlAdhami?tab=followers">
+    <img src="https://img.shields.io/github/followers/AbolfazlAdhami?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;TypeScript+%7C+NestJS+%7C+Next.js;Docker+%7C+DevOps+%7C+System+Design;Building+Scalable+Software" alt="Typing SVG"/>
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="border-radius:20px;" alt="Coding at night with coffee" width="600" />
 </p>
 
----
-<br/>
-
-
-### 🖤 About Me
-- 🖥️ Focused on **Back-End Development**  
-- 🐧 Passionate about **Linux & DevOps**  
-- ⚡ Experienced in **JavaScript, TypeScript, Python**  
-- 🌌 Coding at night + coffee + music = the best feeling ever  
-
-
-<br/>
 
 ---
-<br/>
 
-### ⚒️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+## 🧑‍💻 About Me
+
+I'm a software developer focused on building **modern, scalable, and maintainable applications**.
+
+- 🏗️ Backend architecture & API design
+- ⚡ Full-stack web development
+- 🐳 Docker & containerized applications
+- ☁️ Deployment & DevOps
+- 🗄️ Database design and optimization
+- 🔐 Authentication & authorization
+- 🧩 Clean Architecture, SOLID & Design Patterns
+- 🚀 Developer tooling and automation
+
+> **Code → Architecture → Infrastructure → Production**
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
-<br/>
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,docker,linux,nginx" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman" />
+</p>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧩 Automated Deployment Platform
+
+A deployment platform for Node.js applications with automated deployments and production-oriented infrastructure.
+
+**Focus:** Docker · Blue-Green Deployment · Traefik · Git / ZIP / CLI · NestJS · Next.js
+
+```text
+Developer
+    │
+    ▼
+ Git / ZIP / CLI
+    │
+    ▼
+┌───────────────┐
+│ Deployment API│
+│    NestJS     │
+└───────┬───────┘
+        │
+        ▼
+   Docker Engine
+        │
+   ┌────┴────┐
+   ▼         ▼
+ Blue       Green
+  App        App
+   │         │
+   └────┬────┘
+        ▼
+     Traefik
+        │
+        ▼
+      Users
+```
+
+### 📦 Inventory Management System
+
+Barcode-driven inventory management with mobile scanning, product registration, warehouse operations, annual stock counting, and role-based access.
+
+### 🩺 Health Data Platform
+
+Mobile-oriented health data collection supporting smartphone sensors and wearable devices, including heart rate, sleep, oxygen, blood pressure, temperature, and movement.
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-vert-five-48.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-vert-five-48.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight)
+<img src="https://github-stats-extended.vercel.app/api?username=AbolfazlAdhami&show_icons=true&include_all_commits=true&theme=tokyonight" height="170"/>
 
+<img src="https://github-readme-stats-vert-five-48.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
 
 ## 📈 GitHub Activity
 
@@ -66,9 +142,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlAdhami&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlAdhami&theme=tokyo-night" />
 </p>
 
 <p align="center">
@@ -80,32 +153,86 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlAdhami&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlAdhami&theme=tokyonight&utcOffset=3.5" />
 </p>
-<br/>
-<br/>
- 
+---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph-three-theta.vercel.app
+/graph?username=AbolfazlAdhami&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+ 
+## 🐍 Contribution Snake
 ![snake gif](https://github.com/AbolfazlAdhami/AbolfazlAdhami/blob/output/github-contribution-grid-snake-dark.svg)
 
- 
-<br/>
-<br/>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-  <a href="https://www.linkedin.com/in/abolfazl-ahmadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://github.com/AbolfazlAdhami">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff" />
-  </a>
-</p>
+## 🧠 Engineering Principles
+
+```text
+Clean Code
+    +
+SOLID
+    +
+Design Patterns
+    +
+Clean Architecture
+    +
+Testing
+    +
+Automation
+    +
+Observability
+    =
+Maintainable Software
+```
 
 ---
+
+## 🌱 Currently Exploring
+
+- 🏛️ Software Architecture
+- 🧱 Domain-Driven Design
+- ⚙️ Distributed Systems
+- ☁️ Cloud Infrastructure
+- 🐳 Advanced Docker Workflows
+- 🔄 CI/CD Pipelines
+- 🔐 Application Security
+- 🤖 AI-assisted Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AbolfazlAdhami">
+  <img src="https://img.shields.io/badge/GitHub-AbolfazlAdhami-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace the LinkedIn URL with your real profile -->
+<a href="https://www.linkedin.com/in/abolfazl-ahmadi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build things. Break things. Learn things. Repeat.
+
+**☕ Code at night · 🐧 Linux · 🚀 Backend · 🧠 Architecture**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AbolfazlAdhami&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 
 ⭐️ Life is all about coding at night with coffee — if you like my projects, give them a **Star**!  
 
+</div>
