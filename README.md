@@ -157,8 +157,7 @@ Mobile-oriented health data collection supporting smartphone sensors and wearabl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-three-theta.vercel.app
-/graph?username=AbolfazlAdhami&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph-three-theta.vercel.app/graph?username=AbolfazlAdhami&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
  
