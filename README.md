@@ -3,7 +3,7 @@
   <img src="./banner.png" alt="Abolfazl Adhami Banner" style="border-radius:20px;" />
 </p>
 
-<br/>
+
 
 # 👋 Hi, I'm Abolfazl Adhami
 
@@ -29,8 +29,6 @@
 </p>
 
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a software developer focused on building **modern, scalable, and maintainable applications**.
@@ -46,7 +44,7 @@ I'm a software developer focused on building **modern, scalable, and maintainabl
 
 > **Code → Architecture → Infrastructure → Production**
 
----
+
 
 ## ⚡ Tech Stack
 
@@ -74,7 +72,7 @@ I'm a software developer focused on building **modern, scalable, and maintainabl
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -120,7 +118,7 @@ Barcode-driven inventory management with mobile scanning, product registration, 
 
 Mobile-oriented health data collection supporting smartphone sensors and wearable devices, including heart rate, sleep, oxygen, blood pressure, temperature, and movement.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -132,7 +130,7 @@ Mobile-oriented health data collection supporting smartphone sensors and wearabl
 
 </div>
 
----
+
 
 ## 📈 GitHub Activity
 
@@ -153,7 +151,7 @@ Mobile-oriented health data collection supporting smartphone sensors and wearabl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlAdhami&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlAdhami&theme=tokyonight&utcOffset=3.5" />
 </p>
----
+
 
 ## 📈 Contribution Activity
 
@@ -168,7 +166,7 @@ Mobile-oriented health data collection supporting smartphone sensors and wearabl
 ![snake gif](https://github.com/AbolfazlAdhami/AbolfazlAdhami/blob/output/github-contribution-grid-snake-dark.svg)
 
 
----
+
 
 ## 🧠 Engineering Principles
 
@@ -190,7 +188,6 @@ Observability
 Maintainable Software
 ```
 
----
 
 ## 🌱 Currently Exploring
 
@@ -213,14 +210,13 @@ Maintainable Software
   <img src="https://img.shields.io/badge/GitHub-AbolfazlAdhami-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace the LinkedIn URL with your real profile -->
 <a href="https://www.linkedin.com/in/abolfazl-ahmadi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -228,7 +224,7 @@ Maintainable Software
 
 **☕ Code at night · 🐧 Linux · 🚀 Backend · 🧠 Architecture**
 
-<br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=AbolfazlAdhami&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
