@@ -53,9 +53,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-vert-five-48.vercel.app/api?username=AbolfazlAdhami&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-vert-five-48.vercel.app/api/top-langs/?username=AbolfazlAdhami&layout=compact&theme=tokyonight)
 
 
 ## 📈 GitHub Activity
